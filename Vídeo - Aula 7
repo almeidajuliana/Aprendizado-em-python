@@ -9,3 +9,11 @@ a = n1-1
 s = n1+1
 print(f'O número que você escolheu é: {n1}, o antecessor dele é {a} e o sucessor dele é {s}')
 
+Ex002: Criar um algoritmo que mostre um valor, seu dobro, seu triplo e sua raiz quadrada. Minha resolução foi:
+n1 = int(input('Qual número vc quer?'))
+d = n1*2
+t = n1*3
+rq = n1**(1/2)
+print(f'O número que vc escolheu é:{n1} \n o dobro dele é {d} \n o triplo dele é {t} \n e a raiz quadrada é {rq}')
+
+Ex003: 
