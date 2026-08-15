@@ -1,0 +1,11 @@
+Estudando com base no curso do youtube do canal "Curso em vídeo"
+No vídeo 7, aprendi sobre os operadores aritméticos da linguagem de programação Python.
+No final do vídeo o professor, Guabanara, passou 12 exercícios.
+Aqui vou colocar as minhas resoluções sobre esses exercícios :)
+
+Ex001: Criar um algortimo que mostre o número escolhido, seu sucessor e seu antecessor. Minha resulução foi:
+n1 = int(input('O número será:'))
+a = n1-1
+s = n1+1
+print(f'O número que você escolheu é: {n1}, o antecessor dele é {a} e o sucessor dele é {s}')
+
